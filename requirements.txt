@@ -1,2 +1,4 @@
 Faker
 git+https://github.com/pytorch/text
+ujson
+tqdm
